@@ -1,88 +1,43 @@
-### <div align="center">I'm Buffy Full-Stack Developer | JavaScript, Node.js, Python | HTML & CSS Enthusiast</div>  
-  
+# Hey, I'm Buffy
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
+**Full-Stack dev — building fast landing pages and Discord bots using Node.js & JavaScript**
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
+[![Email](https://img.shields.io/badge/EMAIL-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:info@buffyzyd.net)
+[![Contact](https://img.shields.io/badge/CONTACT-FF69B4?style=for-the-badge&logo=telegram&logoColor=white)](https://discord.com/users/318905464601706517)
 
-<br/>  
+---
 
+## 💡 About Me
+- 🌐 I create **friendly, functional, and responsive websites**  
+- 🤖 I build **custom Discord bots** for communities and businesses  
+- 🚀 Passionate about **performance, scalability, and clean code**
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+---
 
+## 🛠 Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
+---
 
-### Frontend  
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-</div>
+## 📊 GitHub Stats
+![Buffy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
-</td><td valign="top" width="33%">
+---
 
+## 🚀 Featured Projects
+| Project | Description | Tech |
+|---------|-------------|------|
+| **Discord AI Bot** | Advanced Discord bot integrating AI-powered responses, music streaming, playlist management, and automated moderation tools | Node.js, Discord.js, OpenAI API |
+| **Portfolio Website** | Modern, fully responsive portfolio showcasing projects, skills, and contact forms with smooth animations and optimized performance | HTML, CSS, JavaScript |
+| **Community Dashboard** | Secure and intuitive web dashboard for managing Discord servers, bot configurations, and analytics via OAuth2 authentication | Node.js, Express, OAuth2, REST API |
 
-
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/buffydev-1" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=buffydev-1&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-
-
-###  Full-Stack dev — building fast landing pages and Discord bots using Node.js & JavaScript
-  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=buffydev-1&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+---
