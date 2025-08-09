@@ -1,30 +1,88 @@
-# BuffyDev
+### <div align="center">I'm Buffy Full-Stack Developer | JavaScript, Node.js, Python | HTML & CSS Enthusiast</div>  
+  
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=buffydev-1)](https://github.com/buffydev-1)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buffydev-1)](https://github.com/buffydev-1)
-[![trophy](https://github-profile-trophy.vercel.app/?username=buffydev-1)](https://github.com/buffydev-1)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=buffydev-1)](https://git.io/streak-stats)
+- ❓ Ask me about anything related to MERN stack and related technologies  
+  
 
-## Hi there! 👋
+- ⚡ Fun fact: I use tabs over spaces  
+  
 
-I'm BuffyDev, a passionate coder who believes that code is logic, but the bugs are smarter. I love diving into new challenges and coming up with innovative solutions. My interests range from developing Discord bots to creating efficient calculators, always seeking to enhance my coding skills and expand my knowledge in various technologies.
+<br/>  
 
-### Skills and Interests
-- **Programming Languages:** JavaScript, Python, HTML, CSS
-- **Technical Skills:** Problem-Solving, Team Collaboration, Algorithm Design
-- **Interests:** Web Development, Automation, Game Development
 
-### Projects
-- [Discord-Ticket-System-V14](link): A JavaScript project showcasing my expertise in developing systems for communication platforms.
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
-### Contact Me
-- GitHub: [buffydev-1](https://github.com/buffydev-1)
-- Twitter: [@BuffyDev](https://twitter.com/BuffyDev)
-- Email: info@buffyzyd.net
 
-### Analysis and Introductions
-As a budding developer, I have focused on honing my skills in JavaScript and Python, evident from my repositories and project contributions. While my GitHub presence is still growing, I am committed to learning and staying active in the developer community. With a consistent drive for improvement and a knack for problem-solving, I aim to explore new technologies and collaborate on exciting projects in the future.
 
-Utilizing badges and GitHub stats to showcase my profile, I strive to create visually appealing content that reflects my dedication to coding and learning. With a passion for creating original content and a thirst for knowledge, I am excited about the possibilities that lie ahead in my coding journey.
+### Frontend  
+<div align="center">  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+</div>
 
-Let's connect, collaborate, and code together! 🚀
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/buffydev-1" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=buffydev-1&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+
+## Recent Blog Posts  
+
+
+###  Full-Stack dev — building fast landing pages and Discord bots using Node.js & JavaScript
+  
+<!-- BLOG-POST-LIST:START -->  
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:END -->  
+
+<br/>  
+
+  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=buffydev-1&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+<div align="center"></div>
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
