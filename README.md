@@ -1,6 +1,6 @@
 # Hey, I'm Buffy
 
-**Full-Stack dev — building fast landing pages and Discord bots using Node.js & JavaScript**
+**Full-Stack dev**
 
 [![Email](https://img.shields.io/badge/EMAIL-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:official@buffyzyd.net)
 [![Contact](https://img.shields.io/badge/CONTACT-FF69B4?style=for-the-badge&logo=telegram&logoColor=white)](https://discord.com/users/318905464601706517)
