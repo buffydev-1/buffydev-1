@@ -30,12 +30,3 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=buffydev-1&layout=compact&theme=radical)
 
 ---
-
-## 🚀 Featured Projects
-| Project | Description | Tech |
-|---------|-------------|------|
-| **Discord AI Bot** | Advanced Discord bot integrating AI-powered responses, music streaming, playlist management, and automated moderation tools | Node.js, Discord.js, OpenAI API |
-| **Portfolio Website** | Modern, fully responsive portfolio showcasing projects, skills, and contact forms with smooth animations and optimized performance | HTML, CSS, JavaScript |
-| **Community Dashboard** | Secure and intuitive web dashboard for managing Discord servers, bot configurations, and analytics via OAuth2 authentication | Node.js, Express, OAuth2, REST API |
-
----
