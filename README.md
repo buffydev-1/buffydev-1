@@ -7,13 +7,6 @@
 
 ---
 
-## 💡 About Me
-- 🌐 I create **friendly, functional, and responsive websites**  
-- 🤖 I build **custom Discord bots** for communities and businesses  
-- 🚀 Passionate about **performance, scalability, and clean code**
-
----
-
 ## 🛠 Tech Stack  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
