@@ -32,15 +32,15 @@ I am a passionate developer focused on building scalable cloud solutions and hig
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[YourGithubUsername]&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourGithubUsername]&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=buffydev-1&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buffydev-1&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 🌐 Connect with Me
 <p align="left">
-<a href="https://discord.gg/[YourInvite]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Voitgo Discord" height="30" width="40" /></a>
+<a href="https://discord.gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Voitgo Discord" height="30" width="40" /></a>
 </p>
 
 ---
