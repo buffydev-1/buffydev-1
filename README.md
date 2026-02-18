@@ -10,9 +10,8 @@
 ### 💫 About Me
 I am a passionate developer focused on building scalable cloud solutions and high-performance networks. Currently leading **Voitgo.Cloud NetWorks**, providing professional hosting services for Discord bots and game servers.
 
-- 🔭 I’m currently working on **Voitgo.Cloud Infrastructure**.
-- 🌱 I’m currently learning **Advanced Network Security & Kubernetes**.
-- 💬 Ask me about **VPS, Discord Bots (JS/PY), or Server Management**.
+
+- 💬 Ask me about **Cloud solution, (JavaScript/Python), or Server Management**.
 - 📫 How to reach me: **Discord: buffyhq**
 
 ---
@@ -29,14 +28,6 @@ I am a passionate developer focused on building scalable cloud solutions and hig
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=buffydev-1&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buffydev-1&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ### 🌐 Connect with Me
 <p align="left">
