@@ -1,6 +1,5 @@
 # Hi there, I'm Buffy 👋
-## Cloud Infrastructure & Full-stack Developer | Founder of Voitgo.Cloud
-
+## Cloud Infrastructure & Full-stack Developer
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=buffydev-1&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
