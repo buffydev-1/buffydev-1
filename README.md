@@ -7,7 +7,7 @@
 ---
 
 ### 💫 About Me
-I am a passionate developer focused on building scalable cloud solutions and high-performance networks. Currently leading **Voitgo.Cloud NetWorks**, providing professional hosting services for Discord bots and game servers.
+I am a passionate developer focused on building scalable cloud solutions and high-performance networks.
 
 
 - 💬 Ask me about **Cloud solution, (JavaScript/Python), or Server Management**.
