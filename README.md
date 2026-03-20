@@ -1,5 +1,5 @@
 # Hi there, I'm Buffy 👋
-## Cloud Infrastructure & Full-stack Developer
+## Full-stack Developer
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=buffydev-1&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
@@ -10,7 +10,7 @@
 I am a passionate developer focused on building scalable cloud solutions and high-performance networks.
 
 
-- 💬 Ask me about **Cloud solution, (JavaScript/Python), or Server Management**.
+- 💬 Ask me about **Backend architecture, Next.js Server Actions, and DB design**.
 - 📫 How to reach me: **Discord: buffyhq**
 
 ---
@@ -32,6 +32,3 @@ I am a passionate developer focused on building scalable cloud solutions and hig
 <p align="left">
 <a href="https://discord.gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Voitgo Discord" height="30" width="40" /></a>
 </p>
-
----
-⚡ *Fun fact: Most of my Day i like to coding.*
